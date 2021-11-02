@@ -30,4 +30,4 @@
 
 ## 参考文献
 
-2021年度ゼミ論
+2020年度ゼミ論 https://github.com/furuhashilab/2020gsc_SuzukaYoshida
