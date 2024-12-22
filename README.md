@@ -193,7 +193,7 @@ https://ja.localwiki.org/agu/Pai_de_ma%C3%A7%C3%A3%E3%81%AE%E3%83%97%E3%83%AD%E3
 
 ## Conclusion
 * OSMマッパーコミュニティを経由して祖父の記念碑の場所が特定できた。
-https://www.openstreetmap.org/node/12402863475
+[https://www.openstreetmap.org/node/12402863475](https://www.openstreetmap.org/node/12402863475)
 <img width="1512" alt="スクリーンショット 2024-12-07 14 47 23" src="https://github.com/user-attachments/assets/abd613af-56ce-46aa-973e-abc758c0c438">
  
 * 祖父はサンジョアキンにとってなくてはならない存在
